@@ -1,0 +1,9 @@
+*{
+	font-family: Georgia, serif;
+	word-spacing: 2.2px;
+	font-size: 18px;
+}
+li:hover{
+box-shadow: 0px 0px 6px 5px grey;
+
+	}
